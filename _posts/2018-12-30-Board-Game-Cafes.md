@@ -2,13 +2,13 @@
 layout: post
 title: Board Game Cafe Reviews
 author: Angela Fan
+author-class: angela
 ---
 
 # Cafes
 
 This year, we were lucky enough to have the chance to visit so many new board game cafes, seven new cafes on three different continents.
 
-<div class="angela">
 Angela Reviews
 [angela is critical. but all cafes get the highest rating possible, +++, because having these great places where we can play and try games and meet other people is the best and most important thing]
 
@@ -39,4 +39,3 @@ Bastard Cafe-
 +++, Queen of Spades (1)- beautiful place. Really gorgeous. Food was perfectly Melbourne (avocado toast anyone?), excellent coffee and spritzers. Horrible bathroom, which involved going outside. Board game selection was small and not great. I don't think we could have played any very long games if we didn't decide to play Twilight Struggle again.
 
 +++, Game Parlour (2)- great selection of games! Nice organization as well, enforced by asking people to return games to the center table. A lot of kickstarter games, super fun and unique. Seating, even for 2, has enough space for a pretty large game. Seats by the window get VERY warm when the sun shines in though. Food- they had some spin on waffle sandwiches- the waffles were pretty tasteless and got soggy way too quickly. Salad was decent, same with the mohiko chicken bits. Waffle fries were way too oily. Soda seemed too expensive. Loved the dice towers!
-</div>

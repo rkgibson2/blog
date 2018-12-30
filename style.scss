@@ -23,8 +23,12 @@ body {
   color: $darkGray;
 }
 
-.angela {
-  font-family: $angela !important;
+div.content.angela {
+  font-family: $angela;
+}
+
+div.content.robbie {
+  font-family: $robbie;
 }
 
 .container {
