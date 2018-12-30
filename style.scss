@@ -19,15 +19,15 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $georgia;
+  font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
 
-div.content.angela {
+div.content.angela, .angela p {
   font-family: $angela;
 }
 
-div.content.robbie {
+div.content.robbie, .robbie p {
   font-family: $robbie;
 }
 
