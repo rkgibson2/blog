@@ -252,6 +252,9 @@ nav {
 .post > h1 {
   background-size: cover;
   background-position: center;
+  text-align: center;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  color: white;
 }
 
 .posts > .post {
